@@ -1,0 +1,21 @@
+{
+    "things": [
+        {
+            "name": "Coisa",
+            "description": "Apenas uma coisa",
+            "location": "Em algum lugar",
+            "date": "2023-06-26T16:28:55.299Z",
+            "status": "on",
+            "id": 1
+        },
+        {
+            "name": "Bagulho",
+            "description": "Uma bagulho genérico",
+            "location": "No mesmo lugar de antes",
+            "date": "2023-06-26T16:29:16.627Z",
+            "status": "on",
+            "id": 2
+        }
+    ],
+    "contacts": []
+}
