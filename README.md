@@ -1,2 +1,2 @@
 # api-ngtrecos
- API REST experimental para ngTrecos.
+ API REST experimental usando json-server.
